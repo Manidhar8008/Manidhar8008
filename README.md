@@ -1,16 +1,32 @@
-## Hi there 👋
+# Manidhar Pati
 
-<!--
-**Manidhar8008/Manidhar8008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building local-first AI systems for memory, automation, and behavioral infrastructure.
 
-Here are some ideas to get you started:
+## About Me
+I build systems that help people think, remember, and act better over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+- Personal AI systems
+- Retrieval and memory workflows
+- Automation tools
+- FastAPI backends
+- PostgreSQL-based state and memory
+- React + TypeScript frontends
+- Local-first AI with Ollama
+
+## What I Care About
+- Memory-aware systems
+- Human behavior and reinforcement
+- Low-cost, controllable AI
+- Clean architecture
+- Useful products over noisy hype
+
+## Current Focus
+- Personal AI infrastructure
+- Local LLM experiments
+- Workflow automation
+- Retrieval systems
+- Portfolio-ready engineering projects
+
+## Tech Stack
+Python • FastAPI • PostgreSQL • SQLite • React • TypeScript • Tailwind • Vite • Ollama • Git • GitHub • VS Code
